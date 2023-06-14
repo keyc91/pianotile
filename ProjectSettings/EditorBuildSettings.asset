@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/dont stop.unity
+    guid: 0a2868e6f094efc44b436fc204df036a
+  - enabled: 1
+    path: Assets/scenes/main menu.unity
+    guid: 58187fb18d6b4b54cbf2012a09b904ba
+  - enabled: 1
+    path: Assets/scenes/levels page.unity
+    guid: 7e4fd7d6896e4c8498c4c3a29dcd94af
+  - enabled: 1
+    path: Assets/scenes/one star.unity
+    guid: 236cfd52ee858e84f980df67cce7f431
+  - enabled: 1
+    path: Assets/scenes/two stars.unity
+    guid: 061d9f026fcf0a3429ca82bcf52c5c08
+  - enabled: 1
+    path: Assets/scenes/three stars.unity
+    guid: 8c28e5f60d509cd418d663468d99337d
+  - enabled: 1
+    path: Assets/scenes/tequila.unity
+    guid: cd70fe56c0f7b3541af9802b2f4530fa
+  m_configObjects: {}
